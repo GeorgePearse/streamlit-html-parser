@@ -15,3 +15,5 @@ Resources
 
 Where to publish 
 - [ ] "The Jump Digital" Medium Page.
+- [ ] + Demo Vid 
+- [ ] Would be good to start doing tutorials or streaming
